@@ -5,6 +5,7 @@ body {
 
 h1 {
   text-align: center;
+  color: white;
 }
 img {
   display: block;
@@ -22,16 +23,24 @@ img {
   text-align: center;
 }
 
+.topic h2, h3 {
+  color: white;
+}
+
 .topic {
   float: left;
   width: 28.5%;
   margin: 1%;
   padding: 1%;
   height: 280px;
-  border: solid orange;
+  border: solid #40C662;
   border-width: 5px;
 }
 
 .list {
   text-align: left;
+}
+
+a {
+  color: red;
 }
