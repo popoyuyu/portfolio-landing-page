@@ -15,3 +15,16 @@ img {
   border-width: 10px;
   background-color: black;
 }
+
+.topic h2, p, ol{
+  color: #0f0fa1;
+  margin: 10px;
+  text-align: center;
+}
+
+.topic {
+  float: left;
+  width: 29%;
+  margin: 1%;
+  padding: 1%;
+}
