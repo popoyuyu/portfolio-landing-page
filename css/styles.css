@@ -53,10 +53,6 @@ img {
   font-size: 34px;
 }
 
-a {
-  color: ;
-}
-
 .school {
   color: #CC0000;
   font-weight: 700;
@@ -65,4 +61,13 @@ a {
 .work {
   font-weight: bold;
   color: #F06666;
+}
+
+button {
+font-size: 17px;
+color: whitesmoke;
+padding: 1px;
+text-align: center;
+background-color: #37676F;
+border-radius: 15%;
 }
