@@ -12,7 +12,7 @@ img {
   margin-left: auto;
   margin-right: auto;
   width: 20%;
-  border: dotted #40C662;
+  border: solid #37676F;
   padding: 10px;
   border-width: 10px;
 }
@@ -22,6 +22,7 @@ img {
   margin: 10px 0;
   text-align: center;
   font-family: 'Times New Roman', Times, serif;
+  font-size: 150%;
 }
 
 .topic h2, h3 {
@@ -34,9 +35,12 @@ img {
   width: 28.5%;
   margin: 1%;
   padding: 1%;
-  height: 280px;
-  border: solid #40C662;
+  height: auto;
   border-width: 5px;
+}
+
+#intro {
+  color: #37676F;
 }
 
 .list {
