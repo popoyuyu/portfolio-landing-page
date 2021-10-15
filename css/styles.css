@@ -23,7 +23,22 @@ img {
 }
 
 .topic {
+  border: solid orange;
   float: left;
+  width: 29%;
+  margin: 1%;
+  padding: 1%;
+}
+
+.text h2, p {
+  color: #0f0fa1;
+  margin: 10px;
+  text-align: center;
+}
+
+.text {
+  float: right;
+  border: solid red;
   width: 29%;
   margin: 1%;
   padding: 1%;
