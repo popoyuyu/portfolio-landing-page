@@ -9,14 +9,14 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  width: 25%;
   border: solid #53A60E;
   padding: 10px;
   border-width: 10px;
   background-color: black;
 }
 
-.topic h2, p, ol{
+.topic h2, h3, p, ol, ul{
   color: #0f0fa1;
   margin: 10px;
   text-align: center;
@@ -25,21 +25,12 @@ img {
 .topic {
   border: solid orange;
   float: left;
-  width: 29%;
+  width: 29.33%;
   margin: 1%;
   padding: 1%;
+  height: 250px;
 }
 
-.text h2, p {
-  color: #0f0fa1;
-  margin: 10px;
-  text-align: center;
-}
-
-.text {
-  float: right;
-  border: solid red;
-  width: 29%;
-  margin: 1%;
-  padding: 1%;
+.list {
+  text-align: left;
 }
