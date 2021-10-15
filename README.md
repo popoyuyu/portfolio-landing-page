@@ -19,6 +19,8 @@ _This browser application allows users to see my accomplishments and projects as
 * _Clone this repository to your desktop._
 * _Navigate to the top level of directory._
 * _Open index.html in your browser._
+* _Site may also be viewed on GitHub Pages at popoyuyu.github.io/portfolio-landing-page_
+
 
 
 ## Known Bugs
