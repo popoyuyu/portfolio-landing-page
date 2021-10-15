@@ -1,5 +1,6 @@
 body {
-  font-family: Arial, Helvetica, sans-serif
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #37676F;
 }
 
 h1 {
@@ -10,25 +11,25 @@ img {
   margin-left: auto;
   margin-right: auto;
   width: 25%;
-  border: solid #53A60E;
+  border: dotted #40C662;
   padding: 10px;
   border-width: 10px;
-  background-color: black;
 }
 
 .topic h2, h3, p, ol, ul{
   color: #0f0fa1;
-  margin: 10px;
+  margin: 10px 0;
   text-align: center;
 }
 
 .topic {
-  border: solid orange;
   float: left;
-  width: 29.33%;
+  width: 28.5%;
   margin: 1%;
   padding: 1%;
-  height: 250px;
+  height: 280px;
+  border: solid orange;
+  border-width: 5px;
 }
 
 .list {
